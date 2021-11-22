@@ -1,1 +1,1 @@
-# QuizGame
+# project-template-myquiz
